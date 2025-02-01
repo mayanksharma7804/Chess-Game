@@ -31,6 +31,8 @@ Note: In your HTML file, you would initially load one of the themes, and then yo
 
 <h3> Screenshot </h3>
 
+![Screenshot 2025-02-01 190103](https://github.com/user-attachments/assets/3fe86d75-18ab-4c54-b9d0-bd4a1118dcff)
+
 <img src="https://user-images.githubusercontent.com/66966120/125582506-237c66d8-8ac8-4bd1-b8f8-77d7bc2978ef.png" alt="Screenshot (22)" style="max-width:100%;">
 
 <h3> Demo </h3>
