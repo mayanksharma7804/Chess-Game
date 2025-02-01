@@ -35,6 +35,6 @@ Note: In your HTML file, you would initially load one of the themes, and then yo
 
 <h3> Demo </h3>
 
-<a href="https://sonamgupta136.github.io/Chess-Game/"> Demo </a>
+<a href="https://mayanksharma7804.github.io/Chess-Game/"> Demo </a>
 
 <br>
