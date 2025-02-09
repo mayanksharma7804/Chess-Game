@@ -31,7 +31,8 @@ Note: In your HTML file, you would initially load one of the themes, and then yo
 
 <h3> Screenshot </h3>
 
-![Screenshot 2025-02-01 190103](https://github.com/user-attachments/assets/3fe86d75-18ab-4c54-b9d0-bd4a1118dcff)
+![Screenshot 2025-02-09 200750](https://github.com/user-attachments/assets/365c7801-47ef-45bf-afc4-ff14f27d9d65)
+
 
 <h3> Demo </h3>
 
